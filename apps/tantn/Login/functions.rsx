@@ -11,4 +11,9 @@
   />
   <State id="amount" value="0" />
   <State id="variable2" value="" />
+  <GRPCQuery
+    id="grpc_test2"
+    resourceDisplayName="Tan test grpc"
+    resourceName="882833cc-aac3-4f87-b453-08bed1a7d57f"
+  />
 </GlobalFunctions>
