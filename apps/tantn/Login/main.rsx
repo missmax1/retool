@@ -9,6 +9,7 @@
     sticky={null}
     type="main"
   >
+    <Rating id="rating1" allowHalf={true} max={5} value={4.5} />
     <AuthLogin
       id="authLogin1"
       authResourceDisplayName="Google login"
