@@ -16,9 +16,15 @@
     "col": 3,
     "height": 1
   },
+  "rating1": {
+    "row": 5.4,
+    "col": 3,
+    "height": 0.8,
+    "width": 4
+  },
   "table1": {
-    "row": 13.4,
-    "col": 6,
+    "row": 15,
+    "col": 3,
     "height": 8,
     "width": 6
   },
