@@ -1,0 +1,12 @@
+{
+  "id": 10,
+  "document": "Hello",
+  "offset": [
+    {
+      "first": 10,
+      "last": 10,
+      "partyIndex": 10,
+      "articleName": "Hello"
+    }
+  ]
+}
