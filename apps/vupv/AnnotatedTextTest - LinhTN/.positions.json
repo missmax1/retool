@@ -1,0 +1,64 @@
+{
+  "annotatedText1": {
+    "row": 1.8,
+    "col": 1,
+    "height": 7,
+    "width": 7
+  },
+  "btnFind": {
+    "row": 9.8,
+    "col": 4,
+    "height": 1
+  },
+  "button1": {
+    "row": 0.4,
+    "col": 1,
+    "height": 1
+  },
+  "customComponent1": {
+    "row": 19.4,
+    "col": 1,
+    "height": 4,
+    "width": 5
+  },
+  "dropdownButton1": {
+    "row": 16.4,
+    "col": 5,
+    "height": 0.8,
+    "width": 1
+  },
+  "editableText1": {
+    "row": 12.2,
+    "col": 1,
+    "height": 0.6,
+    "width": 4
+  },
+  "listView1": {
+    "row": 1.8,
+    "col": 8,
+    "width": 4
+  },
+  "text1": {
+    "row": 17,
+    "col": 1,
+    "height": 0.6
+  },
+  "textArea1": {
+    "row": 13.8,
+    "col": 1,
+    "height": 1,
+    "width": 4
+  },
+  "textInput2": {
+    "container": "listView1",
+    "row": 0.2,
+    "col": 1,
+    "height": 1,
+    "width": 10
+  },
+  "textInputFind": {
+    "row": 9.8,
+    "col": 1,
+    "height": 1
+  }
+}
