@@ -1,0 +1,24 @@
+{
+  "authLogin1": {
+    "row": 8,
+    "col": 3,
+    "height": 1,
+    "width": 4
+  },
+  "authLogin2": {
+    "row": 9,
+    "col": 3,
+    "height": 1,
+    "width": 4
+  },
+  "button1": {
+    "row": 13.4,
+    "col": 3,
+    "height": 1
+  },
+  "text1": {
+    "row": 11.2,
+    "col": 3,
+    "height": 0.6
+  }
+}
