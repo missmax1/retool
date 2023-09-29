@@ -1,0 +1,79 @@
+version: 43.0.9
+workflowId: 8e2c72c9-95bf-43ba-a2e7-378c38031007
+name: Workflow - Huy Tran - Sep 29, 2023 10:52 AM
+description: null
+triggerWebhooks:
+  array:
+    - object:
+        name: startTrigger
+        uuid: startTrigger
+        inputSchema:
+          object:
+            properties:
+              array: []
+        useHeaderApiKey: false
+        exampleInputJSON: '{test:"abcd1234"}'
+customLibraries:
+  array:
+    - object:
+        version: 4.17.21
+        language: javascript
+        variable: _
+        codeString: |
+          /* Edit library variable below */
+
+          const _ = require('lodash')
+
+          /* Add destructured imports from library below
+          eg. const { pow, log } = require("mathjs") */
+        libraryName: lodash
+    - object:
+        version: 2.1.0
+        language: javascript
+        variable: numbro
+        codeString: |
+          /* Edit library variable below */
+
+          const numbro = require('numbro')
+
+          /* Add destructured imports from library below
+          eg. const { pow, log } = require("mathjs") */
+        libraryName: numbro
+    - object:
+        version: 5.3.2
+        language: javascript
+        variable: Papa
+        codeString: |
+          /* Edit library variable below */
+
+          const Papa = require('papaparse')
+
+          /* Add destructured imports from library below
+          eg. const { pow, log } = require("mathjs") */
+        libraryName: papaparse
+    - object:
+        version: 0.5.23
+        language: javascript
+        variable: moment
+        codeString: |
+          /* Edit library variable below */
+
+          const moment = require('moment-timezone')
+
+          /* Add destructured imports from library below
+          eg. const { pow, log } = require("mathjs") */
+        libraryName: moment-timezone
+    - object:
+        version: 3.4.0
+        language: javascript
+        variable: uuid
+        codeString: |
+          /* Edit library variable below */
+
+          const uuid = require('uuid')
+
+          /* Add destructured imports from library below
+          eg. const { pow, log } = require("mathjs") */
+        libraryName: uuid
+workflowTemplate:
+  version: 3.15.0
